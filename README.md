@@ -15,7 +15,7 @@
 
 <h3 align="center"> Я Java разработчик из Екатеринбурга. </h3>
 
-###  Языки и иструменты в моей работе:
+###  Языки и инструменты в моей работе:
 
 ![Java](https://img.shields.io/badge/java-orange.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -38,7 +38,7 @@
 
 ### Статистика на GitHub:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samsonovAleksandr&theme=vue) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samsonovAleksandr&theme=vue&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samsonovAleksandr&theme=vue) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samsonovAleksandr&theme=vue&utcOffset=5)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samsonovAleksandr&theme=vue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samsonovAleksandr&layout=compact)](https://github.com/samsonovAleksandr/github-readme-stats)
